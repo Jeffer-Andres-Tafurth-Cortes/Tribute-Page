@@ -1,0 +1,48 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+body{
+    padding: 20px;
+    background-color: #000;
+}
+
+h1, h2{
+    display: inline-block;
+    font-size: 40px;
+}
+  
+#main{
+    text-align: center;
+}
+
+
+#img-div, #time-line, h2, h1{
+    background-color: #ffffff5e; 
+    border-radius: 18px;
+    padding: 10px;
+}
+
+img{
+    object-fit: cover;
+    opacity: 0.6;
+    border-radius: 20%;
+    border: 6px double #000;
+}
+
+p{
+    padding-bottom: 20px;
+    font-size: 23px;
+}
+
+ul{
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: left;
+    font-size: 23px;
+}
+
+li{
+    padding: 10px;
+}
